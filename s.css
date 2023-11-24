@@ -1,0 +1,20 @@
+body{
+    padding-top: 100px;
+    margin: auto;
+    width: fit-content;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+    
+}
+body input{
+    margin-top: 10px;
+    border: none;
+    background-color: white;
+    color: blueviolet;
+}
+body input:hover{
+    color: rgb(3, 3, 37);
+    background-color: aliceblue;
+    transition:  2s;
+}
